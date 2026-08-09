@@ -238,7 +238,7 @@ SOC-SIEM-Database/
 
 ## Autor
 
-**Agustín**  
+**Garibay Roberto Agustin**  
 Estudiante de Seguridad Informática
 
 ---
